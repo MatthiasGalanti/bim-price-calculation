@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BIM Price Calculation
 
 KI-gestützte Lösung zur Automatisierung der Preisberechnung in BIM-Projekten.
@@ -34,3 +35,7 @@ Erstelle `.vscode/settings.json`:
     "python.linting.enabled": true,
     "python.testing.pytestEnabled": true
 }
+=======
+# bim-price-calculation
+main repository for the bim price calculation master thesis
+>>>>>>> 5f1a9cfa7b10cdad189aaa239008e01ef9c4aa22
