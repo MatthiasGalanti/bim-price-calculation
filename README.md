@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BIM Price Calculation
 
 KI-gestützte Lösung zur Automatisierung der Preisberechnung in BIM-Projekten.
@@ -10,10 +9,12 @@ KI-gestützte Lösung zur Automatisierung der Preisberechnung in BIM-Projekten.
    git clone https://github.com/MatthiasGalanti/bim-price-calculation.git 
 
 2. Virtuelle Umgebung erstellen und aktivieren
+   ```bash
     python -m venv venv
     venv\Scripts\activate  # Windows
 
-3. Dependencies installieren: 
+3. Dependencies installieren:
+   ```bash 
     pip install -r requirements.txt
 
 4. Projektstruktur
@@ -35,7 +36,3 @@ Erstelle `.vscode/settings.json`:
     "python.linting.enabled": true,
     "python.testing.pytestEnabled": true
 }
-=======
-# bim-price-calculation
-main repository for the bim price calculation master thesis
->>>>>>> 5f1a9cfa7b10cdad189aaa239008e01ef9c4aa22
